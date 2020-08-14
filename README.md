@@ -1,6 +1,6 @@
 # Blog Website
 
-##Technologies used
+## Technologies used
 - HTML, CSS
 - EJS (for templating)
 - Node.js
